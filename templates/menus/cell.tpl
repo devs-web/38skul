@@ -1,0 +1,1 @@
+<div id="{ $menu_cell_id }" class="{ $menu_cell_class_size }"><z id="{ $menu_cell_id_size }">{ $menu_cell_description }</z></div>

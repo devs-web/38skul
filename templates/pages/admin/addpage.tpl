@@ -1,0 +1,1 @@
+<div class="block_pgadd_buttons"><div onclick="AddToUrl ('/admin/pages/page/add/{$catalog_id}/');" class="button_1 button_pg">Добавить страницу</div><div onclick="AddToUrl ('/admin/pages/cat/add/{$catalog_id}/');" class="button_1 button_pg">Добавить каталог</div><div onclick="AddToUrl ('/admin/pages/url/add/{$catalog_id}/');" class="button_1 button_pg">Добавить ссылку</div></div>

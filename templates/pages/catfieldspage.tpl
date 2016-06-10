@@ -1,0 +1,2 @@
+
+<div class="BlockField"><img class="markerImg" style="width: 30px; height: 25px; margin-right: 5px;" src="//web-rubiks.ru/school38/images/120px-Book_blue.png" /><div class="BlockFieldUrl"><a class="urlField" href="/pages/{$url}" title="{$url}" onclick="AddToUrl ('/pages/{$url}'); return false;">{$name}</a> {$button}</div></div>

@@ -1,0 +1,1 @@
+<div onclick="AddToUrl('/admin/news/add/')" class="BigButton button_1">Добавить новость?</div>
